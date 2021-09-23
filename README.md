@@ -1,5 +1,5 @@
-Sync Docker Images between registries
-=====================================
+Sync Docker Repositories
+=========================
 
 Use this script to sync all tags for a given Docker repository from one registry to another.
 
