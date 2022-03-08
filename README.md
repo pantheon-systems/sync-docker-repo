@@ -1,6 +1,8 @@
 Sync Docker Repositories
 =========================
 
+[![Unsupported](https://img.shields.io/badge/Pantheon-Unsupported-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#unsupported)
+
 Use this script to sync all tags for a given Docker repository from one registry to another.
 
 Right now this script has only been tested using quay.io as source and hub.docker.com as destination.
